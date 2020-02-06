@@ -1,0 +1,34 @@
+.py {
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+.btn-1 {
+    background-color: #6a737d;
+    margin-bottom: 1%;
+}
+.btn-1>a {
+    color:white;
+    font-weight: bold;
+}
+.btn-2 {
+    background-color:#5ea6ed;
+    margin-bottom: 1%;
+}
+.btn-2>a {
+    color: #3c4c86;
+    font-weight: bold;
+}
+.img-style {
+    width: 150px;
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+
+.commentStyle {
+
+ border:2px dotted red;
+ margin-bottom: 1%;
+ background-color:rgb(236, 252, 206);
+}
